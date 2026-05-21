@@ -1,6 +1,6 @@
 // Exercício 3 - Estruturas de Controle em Java
 // Escreva um código que o usuário entre com um número, depois com outro número maior que o primeiro
-// e escolhe entre a opção par ou impar.
+// e escolhe entre a opção par ou ímpar.
 // O código deve informar todos os números pares ou ímpares (de acordo com a seleção inicial)
 // no intervalo de números informados, incluindo os números informados e em ordem decrescente;
 
