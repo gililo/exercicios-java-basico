@@ -15,8 +15,6 @@ public class ListaParOuImpar {
         System.out.print("Digite um número: ");
         int numero1 = input.nextInt();
 
-        int epar = numero1 % 2;
-
         System.out.print("Digite outro número, maior que o primeiro: ");
         int numero2 = input.nextInt();
 
