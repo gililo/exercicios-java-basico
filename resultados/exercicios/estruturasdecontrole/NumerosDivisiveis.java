@@ -10,7 +10,7 @@ import java.util.Scanner;
 public class NumerosDivisiveis {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-        int numero2 = 0;
+        int numero2;
 
         System.out.print("Digite um número: ");
         int numero1 = input.nextInt();
